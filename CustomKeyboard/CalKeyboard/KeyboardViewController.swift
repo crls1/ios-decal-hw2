@@ -56,7 +56,7 @@ class KeyboardViewController: UIInputViewController {
     
     let text = [0:"（ ^_^）o自自o（^_^ ）", 1:"ᕙ(⇀‸↼‶)ᕗ",
         2: "<('.'<)", 3:"(╯°□°）╯︵ ┻━┻", 4:"ʕ•ᴥ•ʔ",
-        5:"ಠ_ಠ", 6:"¯\\_(ツ)_/¯", 7:"ლ(｀ー´ლ)", 8:"ʘ‿ʘ"]
+        5:"ಠ_ಠ", 6:"( ꒪Д꒪)ノ", 7:"ლ(｀ー´ლ)", 8:"ʘ‿ʘ"]
     
     @IBAction func writetext(sender: UIButton) {
         let proxy = textDocumentProxy as UITextDocumentProxy
